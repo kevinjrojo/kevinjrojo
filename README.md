@@ -12,7 +12,7 @@
 
 <br><br>
 
-- :school: I was a student at [Coder House](http://lnkiy.in/Ahmed_Hossam_Resume) in the front end development career.
+- :school: I was a student at [Coder House](https://www.coderhouse.com/ar/) in the front end development career.
 - :trophy: 2x `ACPC` Finalist.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
