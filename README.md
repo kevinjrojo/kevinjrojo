@@ -17,6 +17,6 @@
 - :student: I am currently learning databases such as [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) and [![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb&link=https://github.com/BRdhanani)](https://gitlab.com/BRdhanani) as well as BACK END with [![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) .
 - :nerd_face: 🤓 I love building attractive and functional interfaces. I save my codes on  <a href="https://github.com/" target="_blank"> 
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/></a>.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME]((https://drive.google.com/file/d/125xLLRl8FEpj54bx7LM8oCjvjeAikDMJ/view?usp=sharing)).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/125xLLRl8FEpj54bx7LM8oCjvjeAikDMJ/view?usp=sharing).
 - :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
 <br>
